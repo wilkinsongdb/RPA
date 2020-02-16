@@ -1,1 +1,0 @@
-Neste projeto, foi realizado automação do processo utilizando a ferramenta UiPath, ondo o processo era capturar dados em uma planilha do excel e preencher um formulário Web, e após o preenchimento, submeter os dados. Após clicar no botão, o formulário alterar toda sua estrutura e posicionamento de campos, onde a automação deve tratar esta especificação!
